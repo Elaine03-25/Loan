@@ -6,4 +6,6 @@
 使用方法:
 程式如何安裝執行:
 運行畫面截圖:
+![image](https://github.com/user-attachments/assets/238c077e-a9d0-4d01-b3ad-7d710e6a2bd1)
+
 分工資訊:
