@@ -11,7 +11,7 @@ private:
 public:
     // 建構子
     Loan();
-    Loan(double rate, int years, double amount,int g);
+    Loan(double rate, int years, double amount);
 
     // 存取函式（Getter）
     double getYearrate() const;
@@ -27,9 +27,7 @@ public:
 
     // 功能函式
     double getMonthpay() const;  //每月需付金額
-    double getTotalpay() const;  //總共需付金額
-    double getGraceperiodpayin()const;
-    double getGraceperiodpayout()const;
-	double getGraceperiodtotalpay()const;  //寬限期總共需付金額
+    double getGraceperiodpayin()const;  //寬限期內需付金額
+	double getGraceperiodpayout()const;  //寬限期後需付金額
 };
 #endif
