@@ -14,6 +14,8 @@
 
 運行畫面截圖:
 
-![image](https://github.com/user-attachments/assets/74ffe1d7-6f20-4cc3-914a-1cac9b21fef6)
+![image](https://github.com/Elaine03-25/Loan/blob/master/image.png)
+
+![image](https://github.com/Elaine03-25/Loan/blob/master/image.png)
 
 分工資訊:
